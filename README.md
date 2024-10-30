@@ -7,7 +7,7 @@ This is a resource for [IS445 as of Fall 2022](https://uiuc-ischool-dataviz.gith
 ## Download & install
 
  1. clone this repo or download the contents
- 1. make sure you have Ruby *properly* installed (see [the course's install instructions](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week09/installation_instructions_week11.html) for this process)
+ 1. make sure you have Ruby *properly*  installed (see [the course's install instructions](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week09/installation_instructions_week11.html) for this process)
  1. Install using `bundle install` (see [the course's install instructions](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week09/installation_instructions_week11.html))
  1. Host locally with `bundle exec jekyll serve` or `bundle exec jekyll serve -l` (live reload)
  1. Modify files as needed (see sections below)
